@@ -1,0 +1,49 @@
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="MBGamerModPackGuide.github.io" resolutions="1x" timestamp="1581629788030">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="items-and-tools.css" crc="63962098" ref="items-and-tools"/>
+    <file name="suggestions.css" crc="4112263265" ref="suggestions"/>
+    <file name="index.css" crc="4175002851" ref="index"/>
+    <file name="biomes.css" crc="4064035380" ref="biomes"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:suggestions:items-and-tools:biomes"/>
+    <file name="museutils.js" crc="163421577" ref="index:suggestions:items-and-tools:biomes"/>
+    <file name="whatinput.js" crc="86476730" ref="index:suggestions:items-and-tools:biomes"/>
+    <file name="museconfig.js" crc="168988563" ref="index:suggestions:items-and-tools:biomes"/>
+    <file name="jquery.musemenu.js" crc="146495465" ref="index:suggestions:items-and-tools:biomes"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:suggestions:items-and-tools:biomes"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:suggestions:items-and-tools:biomes"/>
+    <file name="require.js" crc="244322403" ref="index:suggestions:items-and-tools:biomes"/>
+    <file name="webpro.js" crc="3848665353" ref="suggestions"/>
+    <file name="form_check.php" crc="158155501" ref="suggestions"/>
+    <file name="form_throttle.php" crc="3992970984" ref="suggestions"/>
+    <file name="form_process.php" crc="4078697226" ref="suggestions"/>
+    <file name="form-u521.php" crc="4088221496" ref="suggestions"/>
+  </folder>
+  <folder name="images">
+    <file name="cuckywithdacar4.jpg" crc="4182893946" ref="index"/>
+    <file name="zbser.png" crc="3935085457" seo="true" ref="items-and-tools"/>
+    <file name="zbser.jpg" crc="347299494" seo="true" ref="items-and-tools"/>
+    <file name="cooked zombie boss-s rotten flesh.png" crc="4057542194" seo="true" ref="items-and-tools"/>
+    <file name="superrottenflesh sword.png" crc="4077324634" seo="true" ref="items-and-tools"/>
+    <file name="srfsr.jpg" crc="90391711" seo="true" ref="items-and-tools"/>
+    <file name="ring1.png" crc="3881328356" seo="true" ref="items-and-tools"/>
+    <file name="rrr.jpg" crc="3759839543" seo="true" ref="items-and-tools"/>
+    <file name="2020-02-13_212104.jpg" crc="211883181" seo="true" ref="biomes"/>
+    <file name="radioactive zombie.jpg" crc="3957949462" seo="true" ref="biomes"/>
+    <file name="radioactive zombie 2.jpg" crc="4010552525" seo="true" ref="biomes"/>
+    <file name="radioactive guy.jpg" crc="427027539" seo="true" ref="biomes"/>
+    <file name="radioactive guy 2.jpg" crc="3809994348" seo="true" ref="biomes"/>
+    <file name="radioactive enderman.jpg" crc="4013793172" seo="true" ref="biomes"/>
+    <file name="radioactive enderman 2.jpg" crc="4211990327" seo="true" ref="biomes"/>
+    <file name="radioactive spider.jpg" crc="104184707" seo="true" ref="biomes"/>
+    <file name="radioactive pig.jpg" crc="94607180" seo="true" ref="biomes"/>
+    <file name="anti-radioactive syringe.png" crc="3761672744" seo="true" ref="biomes"/>
+    <file name="anti-radioactive syringe.jpg" crc="4112464533" seo="true" ref="biomes"/>
+  </folder>
+  <file name="index.html" crc="4253322778" seo="true" mt="1581629777549" redirect="true"/>
+  <file name="suggestions.html" crc="4294835754" seo="true" mt="1581621400457" redirect="true"/>
+  <file name="items-and-tools.html" crc="3854597047" seo="true" mt="1581629410351" redirect="true"/>
+  <file name="biomes.html" crc="34131699" seo="true" mt="1581629420104" redirect="true"/>
+</manifest>
